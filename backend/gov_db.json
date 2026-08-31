@@ -1,0 +1,60 @@
+{
+  "GSTN": {
+    "33AACCS1234F1Z5": {
+      "legal_name": "Suresh Enterprises Private Limited",
+      "status": "Active",
+      "filing_status": "Filed - Jul 2026"
+    },
+    "07AACPV9821K1ZP": {
+      "legal_name": "Vikram Traders",
+      "status": "Active",
+      "filing_status": "Filed - Jul 2026"
+    },
+    "27AADPT3344M1Z2": {
+      "legal_name": "TechNova Solutions",
+      "status": "Active",
+      "filing_status": "Filed - Jul 2026"
+    },
+    "29AAACG1234G1Z9": {
+      "legal_name": "Global Logistics",
+      "status": "Suspended",
+      "filing_status": "Pending - Jun 2026"
+    }
+  },
+  "PAN": {
+    "AACCS1234F": {
+      "name": "Suresh Enterprises Pvt Ltd",
+      "status": "No outstanding demand"
+    },
+    "AACPV9821K": {
+      "name": "Vikram Traders",
+      "status": "Filed, no demand"
+    },
+    "AADPT3344M": {
+      "name": "TechNova Solutions",
+      "status": "No outstanding demand"
+    },
+    "AAACG1234G": {
+      "name": "Global Logistics",
+      "status": "Demand outstanding"
+    }
+  },
+  "UDYAM": {
+    "UDYAM-TN-03-0041827": {
+      "enterprise_type": "Small Enterprise",
+      "status": "Active"
+    },
+    "UDYAM-DL-01-0022913": {
+      "enterprise_type": "Micro Enterprise",
+      "status": "Active"
+    },
+    "UDYAM-MH-12-0012345": {
+      "enterprise_type": "Medium Enterprise",
+      "status": "Active"
+    },
+    "UDYAM-KA-23-0099887": {
+      "enterprise_type": "Small Enterprise",
+      "status": "Suspended"
+    }
+  }
+}

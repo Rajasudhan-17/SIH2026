@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+pydantic
+easyocr
+opencv-python-headless
+google-generativeai
+transformers
+torch
+python-dotenv
